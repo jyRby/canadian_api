@@ -16,7 +16,7 @@ API REST pour voter pour le joueur étoile du match et consulter les matchs/joue
 1. Cloner le projet :
 
 ```bash
-git clone <ton-repo-url>
+git clone https://github.com/jyRby/canadian_api.git
 cd canadien_api
 ```
 
